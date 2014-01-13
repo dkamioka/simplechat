@@ -1,6 +1,6 @@
 {
     "name": "simplechat",
-    "version": "1",
+    "version": "0.1",
     "dependencies": {
         "socket.io": "~0.9"
     }
